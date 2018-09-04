@@ -1,5 +1,6 @@
 # Alex Maxfield's first CS193 Lab
 - Bulleted
+- List
 Dining Court Food
 Clubs
 CS Program
